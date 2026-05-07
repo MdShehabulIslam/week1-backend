@@ -1,0 +1,13 @@
+{
+  "name": "week1-backend",
+  "version": "1.0.0",
+  "description": "TechNest Backend Assignment-1",
+  "license": "ISC",
+  "author": "Mohammad Shehabul Islam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  }
+}
