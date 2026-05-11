@@ -16,4 +16,4 @@ console.log(greet("Sam"));
 
 console.log(calculateAge(2000));
 
-console.log(formatCurrency(100));
+console.log(formatCurrency(1000));
