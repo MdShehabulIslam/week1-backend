@@ -10,5 +10,8 @@
     "start": "node server.js",
     "dev": "nodemon server.js",
     "push": "git push origin main"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
