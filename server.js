@@ -30,7 +30,7 @@ const server = http.createServer((req, res) => {
     return sendJSON(200, {
       bootcamp: "TechNest",
       track: "Backend Engineering",
-      instructor: "Instructor Name",
+      instructor: "Tsungai Katsuro",
     });
   }
 
